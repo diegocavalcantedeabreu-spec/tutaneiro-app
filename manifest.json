@@ -3,8 +3,7 @@
   "short_name": "TUTANEIRO",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#c41e3a",
-  "theme_color": "#c41e3a",
+  "theme_color": "#dc2626",
   "orientation": "portrait",
   "icons": [
     {
