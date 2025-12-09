@@ -1,6 +1,6 @@
 {
-  "name": "TUTANEIRO",
-  "short_name": "TUTANEIRO",
+  "name": "MediDoctor",
+  "short_name": "MediDoctor",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#b91c1c",
